@@ -477,7 +477,7 @@ EMV.Lamps = {
 local V = {
 	Name = VehicleName,
 	Class = "prop_vehicle_jeep",
-	Category = "Photon: Emergency999",
+	Category = "Photon: 999Emergency",
 	Author = "Lily",
 	Model = "models/perrynsvehicles/2015_mercedes_nhs_ambulance/2015_mercedes_nhs_ambulance.mdl",
 	KeyValues = { vehiclescript = "scripts/vehicles/perryn/2015_mercedes_nhs_ambulance.txt" },
