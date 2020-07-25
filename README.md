@@ -15,7 +15,7 @@
 
 | Name | Role |
 | --- | --- |
-| Lily-Rose (https://steamcommunity.com/id/OfficialPhotonThot) | Project Manager. |
+| Lily-Rose(https://steamcommunity.com/id/OfficialPhotonThot) | Project Manager. |
 | [Super Mighty](https://github.com/SuperMighty1) | Project Coordinator. |
 | [MattDavidJ](https://steamcommunity.com/profiles/76561198230436120) | Project Coordinator. |
 
