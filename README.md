@@ -1,6 +1,6 @@
 ## Credits
 
-### [Core Development Team]
+### Core Development Team
 
 | Name | Role |
 | --- | --- |
@@ -11,7 +11,7 @@
 | [creator_2013](https://github.com/creator2013) | Photon Engine code & Components & Vehicles |
 | [Joshua Piper](https://github.com/JoshPiper) | Photon Engine code, Discord Bot, external services & security.
 
-### [999 Emergency Team]
+### 999 Emergency Team
 
 | Name | Role |
 | --- | --- |
