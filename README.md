@@ -20,11 +20,14 @@
 | [MattDavidJ](https://steamcommunity.com/profiles/76561198230436120) | Project Coordinator. |
 | [Creator2013](https://steamcommunity.com/id/creator_2013) | Custom Models & Photon Code. |
 | [GermanDude](https://steamcommunity.com/id/theonlygermandude) | Skins |
+| [SGM](https://steamcommunity.com/id/officialsgm) | Custom Models |
+
 
 
 ### Contributors
 | Name | Contributions |
 | --- | --- |
 | [Joshua Piper](https://github.com/JoshPiper) | Github |
-| GermanDude | Skins |
+| [GermanDude](https://steamcommunity.com/id/theonlygermandude) | Skins |
 | [creator_2013](https://github.com/creator2013) | Components & Models |
+| [SGM](https://steamcommunity.com/id/officialsgm) | Custom Models |
