@@ -32,6 +32,22 @@ EMV.BodyGroups = {
 }
 
 EMV.Auto = {
+	// Dumb Ally Lights
+	// Cab
+{
+ID = "SGM Whelen AllyLight Left",
+Scale =  1.25,
+Pos = Vector(-43.8 , 19.5 , 105),
+Ang = Angle( 0, -95, 0 ),
+},
+	// Passenger 
+{
+ID = "SGM Whelen AllyLight Right",
+Scale =  1.25,
+Pos = Vector(42 , 19.5 , 105),
+Ang = Angle( 0, 94, 0 ),
+},
+
     // Illumination 
     // L 
 {
@@ -44,7 +60,7 @@ Ang = Angle( 0, 180, 0 ),
 {
 ID = "Woodway Perimeter Scene Light Right",
 Scale =  .55,
-Pos = Vector(53.8 , -75 , 116),
+Pos = Vector(52 , -75 , 116),
 Ang = Angle( 0, 0, 0 ),
 },
     // B
@@ -403,25 +419,27 @@ EMV.Sequences = {
 		},
 		{
 			Name = "Right",
-			Icon = "takedown",
+			Icon = "alley-right",
 			Stage = "R",
 			Components = {},
 			BG_Components = {},
 			Preset_Components = {},
 			Lights = {
-				{ Vector( 53.8 , -75 , 116 ), Angle( 50, 0, 0  ), "Right" },
+				{ Vector( 52 , -75 , 116 ), Angle( 50, 0, 0  ), "Right" },
+				{ Vector( 42 , 19.5 , 105 ), Angle( 0, 0, 0  ), "Right" },
 			},
 			Disconnect = {}
 		},
 		{
 			Name = "Left",
-			Icon = "takedown",
+			Icon = "alley-left",
 			Stage = "L",
 			Components = {},
 			BG_Components = {},
 			Preset_Components = {},
 			Lights = {
 				{ Vector(-53.8 , -75 , 116 ), Angle( 50, -180, 0  ), "Left" },
+				{ Vector(-43.8 , 19.5 , 105 ), Angle( 0, -180, 0  ), "Left" },
 			},
 			Disconnect = {}
 			},
@@ -436,6 +454,8 @@ EMV.Sequences = {
 				{ Vector(-53.8 , -75 , 116 ), Angle( 50, -180, 0  ), "Left" },
                 { Vector( 53.8 , -75 , 116 ), Angle( 50, 0, 0  ), "Right" },
                 { Vector( -1, -160.5 , 116 ), Angle( 70, -90, 0  ), "Rear" },
+				{ Vector(-43.8 , 19.5 , 105 ), Angle( 0, -180, 0  ), "Left" },
+				{ Vector( 42 , 19.5 , 105 ), Angle( 0, 0, 0  ), "Right" },
 			},
 			Disconnect = {}
 			},

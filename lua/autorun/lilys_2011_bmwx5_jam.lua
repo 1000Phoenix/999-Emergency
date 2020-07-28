@@ -1,6 +1,6 @@
 AddCSLuaFile()
 
-local VehicleName = "2011 BMW X5 Jam Police [Lily]"
+local VehicleName = "2011 BMW X5 Police [Lily]"
 
 local EMV = {}
 local R = "RED"
@@ -44,7 +44,7 @@ EMV.BodyGroups = {
 
 EMV.Auto = {
 {
-		ID = "Lilys Premier Hazard Sovereign [Jam]",
+		ID = "Lilys Premier Hazard Sovereign",
 		Scale = 1.15,
 		Pos = Vector( 0, -15, 84.2 ),
 		Ang = Angle( 0, 0, 0 )
@@ -68,6 +68,42 @@ EMV.Auto = {
         Color2 = "BLUE",
         Color3 = "BLUE",
         Phase = "B"
+},
+{
+ID = "Whelen Ion Gamer",
+Scale =  1,
+Pos = Vector( 13.25 , 108.25 , 40),
+Ang = Angle( 90, 0, 0 ),
+Color1 = "S_WHITE",
+Color2 = "S_WHITE",
+Phase = "B"
+},
+{
+ID = "Whelen Ion Gamer",
+Scale =  1,
+Pos = Vector( -13.25 , 108.25 , 40),
+Ang = Angle( 90, 0, 0 ),
+Color1 = "S_WHITE",
+Color2 = "S_WHITE",
+Phase = "A"
+},
+{
+ID = "Whelen Ion Gamer",
+Scale =  1,
+Pos = Vector( 13.25 , 108.25 , 40),
+Ang = Angle( 90, 0, 0 ),
+Color1 = "S_WHITE",
+Color2 = "S_WHITE",
+Phase = "B"
+},
+{
+ID = "Whelen Ion Gamer",
+Scale =  1,
+Pos = Vector( -13.25 , 108.25 , 40),
+Ang = Angle( 90, 0, 0 ),
+Color1 = "S_WHITE",
+Color2 = "S_WHITE",
+Phase = "A"
 },
 }
 
@@ -109,15 +145,27 @@ EMV.Patterns = {
 
 EMV.Sequences = {
 	Sequences = {
-		{ Name = "CODE 1", Stage = "M1", Components = {["headlight"] = "on",}, Disconnect = {} },
-		{ Name = "CODE 2", Stage = "M2", Components = {["headlight"] = "on",}, Disconnect = {} },
-		{ Name = "CODE 3", Stage = "M3", Components = {["headlight"] = "on",}, Disconnect = {} }
+		{ Name = "CODE 1", Stage = "M1", Components = {}, Disconnect = {} },
+		{ Name = "CODE 2", Stage = "M2", Components = {}, Disconnect = {} },
+		{ Name = "CODE 3", Stage = "M3", Components = {}, Disconnect = {} }
 	},
 	Traffic = {
-		{ Name = "LEFT", Stage = "L", Components = {}, Disconnect = {} },
-		{ Name = "DIVERGE", Stage = "D", Components = {}, Disconnect = {} },
-		{ Name = "RIGHT", Stage = "R", Components = {}, Disconnect = {} }
-	}
+        { 
+            Name = "RED1", 
+            Stage = "R1", 
+            Components = {
+            ID = "Lilys 2015 NHS M7",
+            Stage = "M1",
+            },
+            Disconnect = {} 
+		},
+		{ 
+            Name = "RED2", 
+            Stage = "R2", 
+            Components = {},
+            Disconnect = {} 
+        },
+	},
 }
 
 local V = {
