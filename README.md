@@ -29,5 +29,6 @@
 | --- | --- |
 | [Joshua Piper](https://github.com/JoshPiper) | Github |
 | [GermanDude](https://steamcommunity.com/id/theonlygermandude) | Skins |
+| [Super Mighty](https://github.com/SuperMighty1) | Components, Models & Skins |
 | [creator_2013](https://github.com/creator2013) | Components & Models |
 | [SGM](https://steamcommunity.com/id/officialsgm) | Custom Models |
