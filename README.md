@@ -19,5 +19,3 @@
 | Name | Contributions |
 | --- | --- |
 | [Joshua Piper](https://github.com/JoshPiper) | Github |
-| GermanDude | Skins |
-| [creator_2013](https://github.com/creator2013) | Components & Models |
