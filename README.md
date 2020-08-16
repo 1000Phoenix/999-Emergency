@@ -33,8 +33,8 @@ We wanted to also name ourselves after something that you could easily connect t
 
 ## Social & Support
 
-[Discord](https://discord.gg/4cBZ6bN)
-[Steam Group](https://steamcommunity.com/groups/999Emergency)
+- [Discord](https://discord.gg/4cBZ6bN)
+- [Steam Group](https://steamcommunity.com/groups/999Emergency)
 
 ## Contributors & Credits
 | Name | Contributions |
