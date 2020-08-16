@@ -5,7 +5,6 @@
 ## Credits
 
 ### 999 Emergency Team
-
 | Name | Role |
 | --- | --- |
 | [Lily-Rose](https://steamcommunity.com/id/OfficialPhotonThot) | Project Manager. |
@@ -13,7 +12,7 @@
 | [MattDavidJ](https://steamcommunity.com/profiles/76561198230436120) | Project Coordinator. |
 | [Creator2013](https://steamcommunity.com/id/creator_2013) | Custom Models & Photon Code. |
 | [GermanDude](https://steamcommunity.com/id/theonlygermandude) | Skins |
-
+| [SGM](https://github.com/SentryGunMan) | Models |
 
 ### Contributors
 | Name | Contributions |
