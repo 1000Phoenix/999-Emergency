@@ -1,15 +1,8 @@
+# 999 Emergency
+
+999 Emergency is a pack of Photon enabled British Emergency Vehicles.
+
 ## Credits
-
-### Core Development Team
-
-| Name | Role |
-| --- | --- |
-| [ischmal](https://github.com/ischmal) | Photon Engine code, photon.lighting website |
-| [Noble](https://github.com/Noble-N9) | Photon Fire and Rescue, various components |
-| GermanDude | Photon vehicles |
-| [Super Mighty](https://github.com/SuperMighty1) | Photon vehicles & components. |
-| [creator_2013](https://github.com/creator2013) | Photon Engine code & Components & Vehicles |
-| [Joshua Piper](https://github.com/JoshPiper) | Photon Engine code, Discord Bot, external services & security.
 
 ### 999 Emergency Team
 
