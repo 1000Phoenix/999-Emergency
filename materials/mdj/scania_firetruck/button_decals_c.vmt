@@ -3,6 +3,7 @@
 	"$basetexture" "mdj/scania_firetruck/button_decals_c"
 	"$bumpmap" "mdj/shared/skin_nm"
 	"$nocull" "0"
+"$translucent" 1
 "$nodecal" "1"
 	"$phong" "1"
 	"$phongexponent" "10"
