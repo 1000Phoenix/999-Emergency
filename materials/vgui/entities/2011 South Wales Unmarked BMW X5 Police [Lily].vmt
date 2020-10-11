@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-    $basetexture "vgui/entities/2011 BMW X5 Police [Lily]"
+    $basetexture "vgui/entities/2011 South Wales Unmarked BMW X5 Police [Lily]"
     "$vertexcolor"         1
     "$vertexalpha"         1
     "$nolod"               1
