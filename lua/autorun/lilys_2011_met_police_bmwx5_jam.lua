@@ -1,6 +1,6 @@
 AddCSLuaFile()
 
-local VehicleName = "2011 Met Police BMW X5 Police [Lily]"
+local VehicleName = "2011 Met Police BMW X5 [Lily]"
 
 local EMV = {}
 local R = "RED"
