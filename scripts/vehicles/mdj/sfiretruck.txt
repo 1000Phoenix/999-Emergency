@@ -1,102 +1,106 @@
 "Vehicle"
 {
-        "WheelsPerAxle"         "2"
-        "Body"
-        {
-                "CounterTorqueFactor"   "1.0"
-                "MassCenterOverride"    "0 0 23"
-                "MassOverride"                  "5000"
-                "AddGravity"                    "0.10"
-                "MaxAngularVelocity"    "720"
-        }
-        "Engine"
-        {
-                "HorsePower"                    "260"
-                "MaxRPM"                                "6500"
-                "MaxSpeed"                              "87"
-                "MaxReverseSpeed"               "20"
-                "AutobrakeSpeedGain"    "1.1"
-                "AutobrakeSpeedFactor"  "3"
-                "Autotransmission"              "0"
-                "AxleRatio"                             "6"
-                "Gear"                                  "3.2"
- 
-                "ShiftUpRPM"                    "5500"
-                "ShiftDownRPM"                  "3500"
-        }
-        "Steering"
-        {
-                "DegreesSlow"                                           "55"
-                "DegreesFast"                                           "18"
-                "DegreesBoost"                                          "11"
-                "FastDampen"                                            "50"
-                "SteeringExponent"                                      "0"
-                "SlowCarSpeed"                                          "12"
-                "FastCarSpeed"                                          "40"
-                "SlowSteeringRate"                                      "2.5"
-                "FastSteeringRate"                                      "1.5"
-                "SteeringRestRateSlow"                          "3"
-                "SteeringRestRateFast"                          "2"
-                "TurnThrottleReduceSlow"                        "0.01"
-                "TurnThrottleReduceFast"                        "0.8"
-                "BrakeSteeringRateFactor"                       "2.6"
-                "ThrottleSteeringRestRateFactor"        "2"
-                "BoostSteeringRestRateFactor"           "1.7"
-                "BoostSteeringRateFactor"                       "1.7"
- 
-                "PowerSlideAccel"                                       "210"
- 
-                "SkidAllowed"                                           "1"
-                "DustCloud"                                                     "1"
-        }
-        "Axle"
-        {
-                "Wheel"
-                {
-                        "Radius"                                                "23"
-                        "Mass"                                                  "360"
-                        "Inertia"                                               "1.1"
-                        "Damping"                                               "0.5"
-                        "RotDamping"                                    "0.6"
-                        "Material"                                              "jeeptire"
-                        "SkidMaterial"                                  "slidingrubbertire"
-                        "BrakeMaterial"                                 "brakingrubbertire"
-                }
-                "Suspension"
-                {
-                        "SpringConstant"                                "87"
-                        "SpringDamping"                                 "1.8"
-                        "StabilizerConstant"                    "0.7"
-                        "SpringDampingCompression"              "4.5"
-                        "MaxBodyForce"                                  "17"
-                }
-                "TorqueFactor"                                          "1.8"
-                "BrakeFactor"                                           "0.8"
-        }
-        "Axle"
-        {
-                "Wheel"
-                {
-                        "Radius"                                                "23"
-                        "Mass"                                                  "360"
-                        "Inertia"                                               "1.1"
-                        "Damping"                                               "0.5"
-                        "RotDamping"                                    "0.6"
-                        "Material"                                              "jeeptire"
-                        "SkidMaterial"                                  "slidingrubbertire"
-                        "BrakeMaterial"                                 "brakingrubbertire"
-                }
-                "Suspension"
-                {
-                        "SpringConstant"                                "105"
-                        "SpringDamping"                                 "1.8"
-                        "StabilizerConstant"                    "0.7"
-                        "SpringDampingCompression"              "4.5"
-                        "MaxBodyForce"                                  "17"
-                }
-                "TorqueFactor"                                          "1.8"
-                "BrakeFactor"                                           "0.8"
-        }
+ "WheelsPerAxle" "2"
+ "Body"
+ {
+ "CounterTorqueFactor" "0.7"
+ "MassCenterOverride" "0 -7 22"
+ "MassOverride" "10000"
+ "AddGravity" "0.7"
+ "MaxAngularVelocity" "700"
+ }
+ "Engine"
+ {
+ "HorsePower" "230"
+ "MaxRPM" "2500"
+ "MaxSpeed" "60"
+ "MaxReverseSpeed" "15"
+ "AutobrakeSpeedGain" "1.12"
+ "AutobrakeSpeedFactor" "3.1"
+ "Autotransmission" "0"
+ "AxleRatio" "7"
+ "Gear" "3.2"
+ "Gear" "2.4"
+ "Gear" "1.5"
+ "Gear" "1"
+ "Gear" "0.83"
+
+ "ShiftUpRPM" "3800"
+ "ShiftDownRPM" "1600"
+ }
+ "Steering"
+ {
+ "DegreesSlow" "40"
+ "DegreesFast" "3"
+ "DegreesBoost" "8"
+ "FastDampen" "80"
+ "SteeringExponent" "0"
+ "SlowCarSpeed" "8"
+ "FastCarSpeed" "60"
+ "SlowSteeringRate" "2"
+ "FastSteeringRate" "0.95"
+ "SteeringRestRateSlow" "2"
+ "SteeringRestRateFast" "0.54"
+ "TurnThrottleReduceSlow" "0.01"
+ "TurnThrottleReduceFast" "0.4"
+ "BrakeSteeringRateFactor" "2"
+ "ThrottleSteeringRestRateFactor" "2.1"
+ "BoostSteeringRestRateFactor" "1.6"
+ "BoostSteeringRateFactor" "1.6"
+
+ "PowerSlideAccel" "250"
+
+ "SkidAllowed" "1"
+ "DustCloud" "1"
+ }
+ "Axle"
+ {
+ "Wheel"
+ {
+ "Radius" "18"
+ "Mass" "362"
+ "Inertia" "0"
+ "Damping" "0"
+ "RotDamping" "0.2"
+ "Material" "jeeptire"
+ "SkidMaterial" "slidingrubbertire"
+ "BrakeMaterial" "brakingrubbertire"
+ }
+ "Suspension"
+ {
+ "SpringConstant" "22"
+ "SpringDamping" "0.5"
+ "StabilizerConstant" "0"
+ "SpringDampingCompression" "3"
+ "MaxBodyForce" "14"
+ }
+ "TorqueFactor" "0.5"
+ "BrakeFactor" "0.5"
+ }
+ "Axle"
+ {
+ "Wheel"
+ {
+ "Radius" "18"
+ "Mass" "520"
+ "Inertia" "0"
+ "Damping" "0"
+ "RotDamping" "0.8"
+ "Material" "jeeptire"
+ "SkidMaterial" "slidingrubbertire"
+ "BrakeMaterial" "brakingrubbertire"
+ }
+ "Suspension"
+ {
+ "SpringConstant" "35"
+ "SpringDamping" "0.5"
+ "StabilizerConstant" "0"
+ "SpringDampingCompression" "3"
+ "MaxBodyForce" "17"
+ }
+ "TorqueFactor" "0.7"
+ "BrakeFactor" "0.5"
+ }
 }
  
 "Vehicle_Sounds"
