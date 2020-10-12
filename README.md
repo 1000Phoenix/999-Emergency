@@ -51,3 +51,4 @@ We wanted to also name ourselves after something that you could easily connect t
 | [GermanDude](https://steamcommunity.com/id/theonlygermandude) | Skins |
 | [SGM](https://github.com/SentryGunMan) | Models |
 | [Joshua Piper](https://github.com/JoshPiper) | GitHub, Documentation |
+| [TDM](https://steamcommunity.com/id/TheDanishMaster) | Models |
