@@ -1,8 +1,0 @@
-patch
-{
-	include "materials/mdj/shared/skin0.vmt"
-	replace
-	{
-		"$basetexture" "mdj/scania_firetruck/skin5"
-	}
-}
