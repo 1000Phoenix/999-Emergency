@@ -57,7 +57,7 @@
  {
  "Wheel"
  {
- "Radius" "18"
+ "Radius" "21"
  "Mass" "362"
  "Inertia" "0"
  "Damping" "0"
@@ -68,7 +68,7 @@
  }
  "Suspension"
  {
- "SpringConstant" "22"
+ "SpringConstant" "85"
  "SpringDamping" "0.5"
  "StabilizerConstant" "0"
  "SpringDampingCompression" "3"
@@ -81,7 +81,7 @@
  {
  "Wheel"
  {
- "Radius" "18"
+ "Radius" "21"
  "Mass" "520"
  "Inertia" "0"
  "Damping" "0"
@@ -92,7 +92,7 @@
  }
  "Suspension"
  {
- "SpringConstant" "35"
+ "SpringConstant" "85"
  "SpringDamping" "0.5"
  "StabilizerConstant" "0"
  "SpringDampingCompression" "3"
