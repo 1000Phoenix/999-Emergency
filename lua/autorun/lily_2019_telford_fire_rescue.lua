@@ -5,7 +5,7 @@ local VehicleName = "2019 Telford Fire and Rescue [Lily]"
 local EMV = {}
 
 EMV.Siren = 7
-EMV.Skin = 0
+EMV.Skin = 1
 EMV.Color = Color(255,255,255)
 
 EMV.BodyGroups = {
