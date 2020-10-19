@@ -62,37 +62,37 @@ EMV.Auto = {
 	},
 	// Grille
 		{
-		ID = "Whelen M9",
+		ID = "Whelen Ion Gamer",
 		Scale = 1,
-		Pos = Vector( -12 , 111.25 , 28),
-		Ang = Angle( 90, 180, 0 ),
+		Pos = Vector( -12 , 108.25 , 40),
+		Ang = Angle( 90, 0, 0 ),
 		Color1 = "S_WHITE",
 		Color2 = "S_WHITE",
 		Phase = "B"
 	},
 	{
-		ID = "Whelen M9",
+		ID = "Whelen Ion Gamer",
 		Scale = 1,
-		Pos = Vector( -5 , 111.25 , 28),
-		Ang = Angle( 90, 180, 0 ),
+		Pos = Vector( -5 , 108.25 , 40),
+		Ang = Angle( 90, 0, 0 ),
 		Color1 = "BLUE",
 		Color2 = "BLUE",
 		Phase = "A"
 	},
 			{
-		ID = "Whelen M9",
+		ID = "Whelen Ion Gamer",
 		Scale = 1,
-		Pos = Vector( 16.25 , 111.25 , 28),
-		Ang = Angle( 90, 180, 0 ),
+		Pos = Vector( 16.25 , 108.25 , 40),
+		Ang = Angle( 90, 0, 0 ),
 		Color1 = "S_WHITE",
 		Color2 = "S_WHITE",
 		Phase = "A"
 	},
 	{
-		ID = "Whelen M9",
+		ID = "Whelen Ion Gamer",
 		Scale = 1,
-		Pos = Vector( 6 , 111.25 , 28),
-		Ang = Angle( 90, 180, 0 ),
+		Pos = Vector( 6 , 108.25 , 40),
+		Ang = Angle( 90, 0, 0 ),
 		Color1 = "BLUE",
 		Color2 = "BLUE",
 		Phase = "B"

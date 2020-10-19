@@ -70,40 +70,22 @@ EMV.Auto = {
         Phase = "B"
 },
 {
-ID = "Whelen Ion Gamer",
+ID = "Whelen M9",
 Scale =  1,
-Pos = Vector( 13.25 , 108.25 , 40),
-Ang = Angle( 90, 0, 0 ),
-Color1 = "S_WHITE",
-Color2 = "S_WHITE",
-Phase = "B"
+Pos = Vector( 13.25 , 111.25 , 26.5),
+Ang = Angle( 90, 180, 0 ),
+Color1 = "WHITE",
+Color2 = "WHITE",
+Phase = "TTA"
 },
 {
-ID = "Whelen Ion Gamer",
+ID = "Whelen M9",
 Scale =  1,
-Pos = Vector( -13.25 , 108.25 , 40),
-Ang = Angle( 90, 0, 0 ),
-Color1 = "S_WHITE",
-Color2 = "S_WHITE",
-Phase = "A"
-},
-{
-ID = "Whelen Ion Gamer",
-Scale =  1,
-Pos = Vector( 13.25 , 108.25 , 40),
-Ang = Angle( 90, 0, 0 ),
-Color1 = "S_WHITE",
-Color2 = "S_WHITE",
-Phase = "B"
-},
-{
-ID = "Whelen Ion Gamer",
-Scale =  1,
-Pos = Vector( -13.25 , 108.25 , 40),
-Ang = Angle( 90, 0, 0 ),
-Color1 = "S_WHITE",
-Color2 = "S_WHITE",
-Phase = "A"
+Pos = Vector( -13.25 , 111.25 , 26.5),
+Ang = Angle( 90, 180, 0 ),
+Color1 = "WHITE",
+Color2 = "WHITE",
+Phase = "TTB"
 },
 }
 
