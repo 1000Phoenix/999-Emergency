@@ -132,15 +132,12 @@ EMV.Sequences = {
 		{ Name = "CODE 3", Stage = "M3", Components = {}, Disconnect = {} }
 	},
 	Traffic = {
-        { 
+		{ 
             Name = "RED1", 
             Stage = "R1", 
-            Components = {
-            ID = "Lilys 2015 NHS M7",
-            Stage = "M1",
-            },
+            Components = {},
             Disconnect = {} 
-		},
+        },
 		{ 
             Name = "RED2", 
             Stage = "R2", 
