@@ -10,7 +10,7 @@ EMV.Color = Color(255,255,255)
 
 EMV.BodyGroups = {
 	{ 0, 0 }, -- Body
-	{ 1, 0 }, -- clamped1
+	{ 1, 1 }, -- clamped1
 	{ 2, 0 }, -- clamped2
 	{ 3, 0 }, -- clamped3
 	{ 4, 0 }, -- clamped4
@@ -19,7 +19,7 @@ EMV.Props = {
     {
         Model = "models/supermighty/emergency999_badge.mdl", 
          Pos = Vector( -12, 115.32, 28.45),
-         Ang = Angle( 0, -81 , 0 ),
+         Ang = Angle( 0, 96 , 0 ),
          Scale = 1,
          Skin = 0,
     },
