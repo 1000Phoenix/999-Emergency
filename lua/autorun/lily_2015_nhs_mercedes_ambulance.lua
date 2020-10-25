@@ -391,10 +391,7 @@ EMV.Sequences = {
         { 
             Name = "RED1", 
             Stage = "R1", 
-            Components = {
-            ID = "Lilys 2015 NHS M7",
-            Stage = "M1",
-            },
+            Components = {},
             Disconnect = {} 
 		},
 		{ 
