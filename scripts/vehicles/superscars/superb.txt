@@ -1,4 +1,4 @@
-// 20_rs6, created by 2000 Ford Crown Victoria P71 in Fri May 29 22:01:38 2020, using Vehicle Controller (VCMod).
+// superb, created by Super Mighty in Sun Oct 25 19:58:06 2020, using Vehicle Controller (VCMod).
 
 "Vehicle"
 {
@@ -7,13 +7,13 @@
  {
  "CounterTorqueFactor" "1.009"
  "MassCenterOverride" "0 0 3"
- "MassOverride" "2266"
+ "MassOverride" "2760"
  "AddGravity" "0.74"
  "MaxAngularVelocity" "814"
  }
  "Engine"
  {
- "HorsePower" "421"
+ "HorsePower" "403"
  "MaxRPM" "3500"
  "MaxSpeed" "110"
  "MaxReverseSpeed" "27"
@@ -30,7 +30,7 @@
  {
  "DegreesSlow" "35"
  "DegreesFast" "10"
- "DegreesBoost" "9"
+ "DegreesBoost" "8"
  "FastDampen" "79"
  "SteeringExponent" "0.59"
  "SlowCarSpeed" "4"
@@ -72,7 +72,7 @@
  "SpringDampingCompression" "5"
  "MaxBodyForce" "54"
  }
- "TorqueFactor" "0.5"
+ "TorqueFactor" "0.4"
  "BrakeFactor" "0.67"
  }
  "Axle"
@@ -96,7 +96,7 @@
  "SpringDampingCompression" "5"
  "MaxBodyForce" "54"
  }
- "TorqueFactor" "0.5"
+ "TorqueFactor" "0.4"
  "BrakeFactor" "0.67"
  }
 }
