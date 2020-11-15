@@ -91,313 +91,228 @@ Color1 = "BLUE",
 Color2 = "BLUE",
 Phase = "B"
 },
-
-	// Front
-	// B Left
+	// Right Side lights
 	{
-ID = "Lilys 2015 NHS M7",
-Scale =  1,
-Pos = Vector( 32.25, 17.25, 114.5 ),
-Ang = Angle( 0, 180, 0 ),
+ID = "Lilys 2015 Ambulance M7 B/B",
+Scale =  2.5,
+Pos = Vector( 50.9, 4.25, 110.5 ),
+Ang = Angle( 90, 0, 0 ),
 Color1 = "BLUE",
 Color2 = "BLUE",
 Color3 = "BLUE",
 Phase = "B"
-},
-// B Right
-	{
-ID = "Lilys 2015 NHS M7",
-Scale =  1,
-Pos = Vector( -58.55, 17.25, 114.5 ),
-Ang = Angle( 0, 180, 0 ),
+	},
+		{
+ID = "Lilys 2015 Ambulance M7 B/B",
+Scale =  2.5,
+Pos = Vector( 50.9, -153.25, 115.5 ),
+Ang = Angle( 90, 0, 0 ),
 Color1 = "BLUE",
 Color2 = "BLUE",
 Color3 = "BLUE",
 Phase = "A"
-},
-
-//  L W Mid
+	},
+	// Left Side Lights
+		{
+ID = "Lilys 2015 Ambulance M7 B/B",
+Scale =  2.5,
+Pos = Vector( -52.8, 4.25, 115.5 ),
+Ang = Angle( -270, -180, -0 ),
+Color1 = "BLUE",
+Color2 = "BLUE",
+Color3 = "BLUE",
+Phase = "B"
+	},
 	{
-ID = "Lilys 2015 NHS M7",
-Scale =  1,
-Pos = Vector( -1.75, 17.25, 114.5 ),
-Ang = Angle( 0, 180, 0 ),
-Color1 = "C_WHITE",
-Color2 = "C_WHITE",
-Color3 = "C_WHITE",
+ID = "Lilys 2015 Ambulance M7 B/B",
+Scale =  2.5,
+Pos = Vector( -52.8, -153.25, 115.5 ),
+Ang = Angle( -270, -180, 0 ),
+Color1 = "BLUE",
+Color2 = "BLUE",
+Color3 = "BLUE",
 Phase = "A"
-},
-//  R W Mid
+	},
+	// Front Lights <3
 	{
-ID = "Lilys 2015 NHS M7",
-Scale =  1,
-Pos = Vector( -21.75, 17.25, 114.5 ),
-Ang = Angle( 0, 180, 0 ),
+ID = "Lilys 2015 Ambulance M7 B/B",
+Scale =  2.5,
+Pos = Vector( -45, 14.25, 115.5 ),
+Ang = Angle( 90,90, 0 ),
+Color1 = "BLUE",
+Color2 = "BLUE",
+Color3 = "BLUE",
+Phase = "A"
+	},
+	{
+ID = "Lilys 2015 Ambulance M7 B/B",
+Scale =  2.5,
+Pos = Vector( 45, 14.25, 115.5 ),
+Ang = Angle( 90,90, 0 ),
+Color1 = "BLUE",
+Color2 = "BLUE",
+Color3 = "BLUE",
+Phase = "B"
+	},
+	{
+ID = "Lilys 2015 Ambulance M7 B/B",
+Scale =  2.5,
+Pos = Vector( -10, 14.25, 115.5 ),
+Ang = Angle( 90,90, 0 ),
 Color1 = "C_WHITE",
 Color2 = "C_WHITE",
 Color3 = "C_WHITE",
 Phase = "B"
-},
-// Headlights :)
+	},
+	{
+ID = "Lilys 2015 Ambulance M7 B/B",
+Scale =  2.5,
+Pos = Vector( 10, 14.25, 115.5 ),
+Ang = Angle( 90,90, 0 ),
+Color1 = "C_WHITE",
+Color2 = "C_WHITE",
+Color3 = "C_WHITE",
+Phase = "A"
+	},
+	// Rear Blues
+		{
+ID = "Lilys 2015 Ambulance M7 B/B",
+Scale =  2.5,
+Pos = Vector( -45, -159.5, 115.5 ),
+Ang = Angle( 90, 270, 0 ),
+Color1 = "BLUE",
+Color2 = "BLUE",
+Color3 = "BLUE",
+Phase = "A"
+	},
+	{
+ID = "Lilys 2015 Ambulance M7 B/B",
+Scale =  2.5,
+Pos = Vector( 45, -159.5, 115.5 ),
+Ang = Angle( 90, 270, 0 ),
+Color1 = "BLUE",
+Color2 = "BLUE",
+Color3 = "BLUE",
+Phase = "B"
+	},
+			{
+ID = "Lilys 2015 Ambulance M7 B/B",
+Scale =  2.5,
+Pos = Vector( -15, -159.5, 115.5 ),
+Ang = Angle( 90, 270, 0 ),
+Color1 = "BLUE",
+Color2 = "BLUE",
+Color3 = "BLUE",
+Phase = "B"
+	},
+	{
+ID = "Lilys 2015 Ambulance M7 B/B",
+Scale =  2.5,
+Pos = Vector( 15, -159.5, 115.5 ),
+Ang = Angle( 90, 270, 0 ),
+Color1 = "BLUE",
+Color2 = "BLUE",
+Color3 = "BLUE",
+Phase = "A"
+	},
+	// Rear Reds
+	// Headlights <3
 	{
 ID = "Lilys 2015 Mercedes Ambulance Headlights",
 Scale =  1,
 Pos = Vector( 0, 0, 0 ),
 Ang = Angle( 0, 90, 0 )
-},
-// Left Side
-//  F
-	{
-ID = "Lilys 2015 NHS M7",
-Scale =  1,
-Pos = Vector(  -56 , -6.75 , 114),
-Ang = Angle( 0, -90, 0 ),
-Color1 = "BLUE",
-Color2 = "BLUE",
-Color3 = "BLUE",
-Phase = "A"
-},
-//   B
-	{
-ID = "Lilys 2015 NHS M7",
-Scale =  1,
-Pos = Vector(  -56 , -164.75 , 114),
-Ang = Angle( 0, -90, 0 ),
-Color1 = "BLUE",
-Color2 = "BLUE",
-Color3 = "BLUE",
-Phase = "B"
-},
-// Right Side
-// B
-	{
-ID = "Lilys 2015 NHS M7",
-Scale =  1,
-Pos = Vector(  54 , -138.35 , 114),
-Ang = Angle( 0, 90, 0 ),
-Color1 = "BLUE",
-Color2 = "BLUE",
-Color3 = "BLUE",
-Phase = "A"
-},
-// F
-	{
-ID = "Lilys 2015 NHS M7",
-Scale =  1,
-Pos = Vector(  54 , 19.2, 105.9),
-Ang = Angle( 0, 90, 0 ),
-Color1 = "BLUE",
-Color2 = "BLUE",
-Color3 = "BLUE",
-Phase = "B"
-},
-// Rear 
-// B L
-	{
-ID = "Lilys 2015 NHS M7",
-Scale =  1,
-Pos = Vector( -33.35 , -162.6 , 114.4),
-Ang = Angle( 0, 0, 0 ),
-Color1 = "BLUE",
-Color2 = "BLUE",
-Color3 = "BLUE",
-Phase = "A"
-},
-// B R
-	{
-ID = "Lilys 2015 NHS M7",
-Scale =  1,
-Pos = Vector( 56.8 , -162.6 , 114.4),
-Ang = Angle( 0, 0, 0 ),
-Color1 = "BLUE",
-Color2 = "BLUE",
-Color3 = "BLUE",
-Phase = "B"
-},
-// B M L
-	{
-ID = "Lilys 2015 NHS M7",
-Scale =  1,
-Pos = Vector( -1.85 , -162.6 , 114.4),
-Ang = Angle( 0, 0, 0 ),
-Color1 = "BLUE",
-Color2 = "BLUE",
-Color3 = "BLUE",
-Phase = "B"
-},
-// B M R
-
-	{
-ID = "Lilys 2015 NHS M7",
-Scale =  1,
-Pos = Vector( 25.45 , -162.6 , 114.4),
-Ang = Angle( 0, 0, 0 ),
-Color1 = "BLUE",
-Color2 = "BLUE",
-Color3 = "BLUE",
-Phase = "A"
-},
-// L RR
-	{
-ID = "Lilys 2015 NHS M7 Rear",
-Scale =  1,
-Pos = Vector( 39.8 , -163 , 114.4),
-Ang = Angle( 0, 0, 0 ),
-Color1 = "RED",
-Color2 = "RED",
-Color3 = "RED",
-},
-
+	},
 }
 
 EMV.Props = {
-	// Front
-	// Left
-{
-    Model = "models/noble/whelen_m9/whelen_m9.mdl", 
-     Pos = Vector( 29 , 17 , 115),
-     Ang = Angle( 0, 180 , 0 ),
-     Scale = Vector(1.25,1,0.6),
-     Skin = 0,
-    },
-	// Right
-{
-    Model = "models/noble/whelen_m9/whelen_m9.mdl", 
-     Pos = Vector( -62 , 17 , 115),
-     Ang = Angle( 0, 180 , 0 ),
-     Scale = Vector(1.25,1,0.6),
-     Skin = 0,
-    },
-	// Left Mid
-{
-    Model = "models/noble/whelen_m9/whelen_m9.mdl", 
-     Pos = Vector( -5 , 17 , 115),
-     Ang = Angle( 0, 180 , 0 ),
-     Scale = Vector(1.25,1,0.6),
-     Skin = 0,
-    },
-	// Right Mid
-{
-    Model = "models/noble/whelen_m9/whelen_m9.mdl", 
-     Pos = Vector( -25 , 17 , 115),
-     Ang = Angle( 0, 180 , 0 ),
-     Scale = Vector(1.25,1,0.6),
-     Skin = 0,
-    },
-	// Left Side
-	//  F
+	// Rear Reds
 	{
-    Model = "models/noble/whelen_m9/whelen_m9.mdl", 
-     Pos = Vector( -55.5 , -10 , 114.5),
-     Ang = Angle( 0, -90 , 0 ),
-     Scale = Vector(1.25,1,0.6),
-     Skin = 0,
+    Model = "models/999pack/m7/m7-1.mdl", 
+     Pos = Vector( 27, -159.5, 115.5 ),
+     Ang = Angle( 90, 270, 0),
+     Scale = Vector(2.5, 2.5, 2.5),
+     Skin = 2,
     },
-	//  B
 	{
-    Model = "models/noble/whelen_m9/whelen_m9.mdl", 
-     Pos = Vector( -55.5 , -168 , 114.5),
-     Ang = Angle( 0, -90 , 0 ),
-     Scale = Vector(1.25,1,0.6),
-     Skin = 0,
+    Model = "models/999pack/m7/m7-1.mdl", 
+     Pos = Vector( -29.75, -159.5, 115.5 ),
+     Ang = Angle( 90, 270, 0),
+     Scale = Vector(2.5, 2.5, 2.5),
+     Skin = 2,
     },
-	// Right Side
-	// B
+	// 999 Logo
 	{
-    Model = "models/noble/whelen_m9/whelen_m9.mdl", 
-     Pos = Vector( 53.8 , -135 , 114.5),
-     Ang = Angle( 0, 90 , 0 ),
-     Scale = Vector(1.25,1,0.6),
-     Skin = 0,
+    Model = "models/supermighty/emergency999_badge.mdl", 
+     Pos = Vector( -15.75, 119.4, 32.3 ),
+     Ang = Angle( 0, 100, 4.2),
+     Scale = Vector(1,0.5,0.75),
+     Skin = 2,
     },
-	// F
-	{
-    Model = "models/noble/whelen_m9/whelen_m9.mdl", 
-     Pos = Vector( 53.8 , 22.5 , 106.5),
-     Ang = Angle( 0, 90 , 0 ),
-     Scale = Vector(1.25,1,0.6),
-     Skin = 0,
-    },
-	// Rear
-	// B L
-{
-    Model = "models/noble/whelen_m9/whelen_m9.mdl", 
-     Pos = Vector( -30 , -162.5 , 115),
-     Ang = Angle( 0, 0 , 0 ),
-     Scale = Vector(1.25,1,0.6),
-     Skin = 0,
-    },
-	// B R
-{
-    Model = "models/noble/whelen_m9/whelen_m9.mdl", 
-     Pos = Vector( 60 , -162.5 , 115),
-     Ang = Angle( 0, 0 , 0 ),
-     Scale = Vector(1.25,1,0.6),
-     Skin = 0,
-    },
-	// B M L
-{
-    Model = "models/noble/whelen_m9/whelen_m9.mdl", 
-     Pos = Vector( 1.5 , -162.5 , 115),
-     Ang = Angle( 0, 0 , 0 ),
-     Scale = Vector(1.25,1,0.6),
-     Skin = 0,
-    },
-
-	// B M R
-{
-    Model = "models/noble/whelen_m9/whelen_m9.mdl", 
-     Pos = Vector( 28.75 , -162.5 , 115),
-     Ang = Angle( 0, 0 , 0 ),
-     Scale = Vector(1.25,1,0.6),
-     Skin = 0,
-    },
-	// R L 
-{
-    Model = "models/noble/whelen_m9/whelen_m9.mdl", 
-     Pos = Vector( -13 , -162.5 , 115),
-     Ang = Angle( 0, 0 , 0 ),
-     Scale = Vector(1.25,1,0.6),
-     Skin = 3,
-	 SubMaterials = {
-    ["1"] = "phoenix_storms/pack2/redlight"
-  },
-},
-	// R R
-	{
-    Model = "models/noble/whelen_m9/whelen_m9.mdl", 
-     Pos = Vector( 43.25 , -162.5 , 115),
-     Ang = Angle( 0, 0 , 0 ),
-     Scale = Vector(1.25,1,0.6),
-     Skin = 3,
-	 SubMaterials = {
-    ["1"] = "phoenix_storms/pack2/redlight"
-  },
-},
 
 }
 
+EMV.Meta = {
+	rear_reds = {
+		AngleOffset = -90,
+		W = 8,
+		H = 8,
+		Sprite = "sprites_apac/emv/whelen_lin6",
+		Scale = 1,
+		WMult = 0.9,
+	},
+}
 
+EMV.Positions = {
+	[1] = { Vector( 27, -159.8, 115.5 ), Angle( 0, 180, 0 ), "rear_reds" },
+	[2] = { Vector( -29.75, -159.8, 115.5 ), Angle( 0, 180, 0 ), "rear_reds" },
+}
 
-EMV.Meta = {}
+EMV.Sections = {
+
+	["rear_reds"] = {
+        [1] = {
+        { 1, R },
+		},
+		[2] = {
+		{ 2, R },
+		},
+	},
+}
+
+EMV.Patterns = {
+   ["rear_reds"] = {  
+	["R1"] = {
+		1, 1, 1, 0, 2, 2
+  	 	},	
+	["R2"] = {
+	1, 0, 1, 0, 1, 0, 2, 0, 2, 0, 2, 0,
+	1, 0, 1, 0, 1, 0, 2, 0, 2, 0, 2, 0,
+	1, 0, 1, 0, 1, 0, 2, 0, 2, 0, 2, 0
+  	 	},
+	["off"] = {
+	0
+  	 	}
+	},
+}
 
 EMV.Sequences = {
 	Sequences = {
-		{ Name = "CODE 1", Stage = "M1", Components = {}, Disconnect = {} },
-		{ Name = "CODE 2", Stage = "M2", Components = {}, Disconnect = {} },
-		{ Name = "CODE 3", Stage = "M3", Components = {}, Disconnect = {} }
+		{ Name = "CODE 1", Stage = "M1", Components = {["rear_reds"] = "off",}, Disconnect = {} },
+		{ Name = "CODE 2", Stage = "M2", Components = {["rear_reds"] = "off",}, Disconnect = {} },
+		{ Name = "999 Mode", Stage = "M3", Components = {["rear_reds"] = "off",}, Disconnect = {} }
 	},
 	Traffic = {
         { 
             Name = "RED1", 
             Stage = "R1", 
-            Components = {},
+            Components = {["rear_reds"] = "R1",},
             Disconnect = {} 
 		},
 		{ 
             Name = "RED2", 
             Stage = "R2", 
-            Components = {},
+            Components = {["rear_reds"] = "R2",},
             Disconnect = {} 
         },
 	},
