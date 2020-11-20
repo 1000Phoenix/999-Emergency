@@ -3,6 +3,16 @@ AddCSLuaFile()
 local VehicleName = "2019 Telford Fire and Rescue [Lily]"
 
 local EMV = {}
+local R = "RED"
+local W = "WHITE"
+local SW = "S_WHITE"
+local CW = "C_WHITE"
+local B = "BLUE"
+local DR = "D_RED"
+local A = "AMBER"
+local G = "GREEN"
+EMV.RadarDisabled = true
+
 
 EMV.Siren = "sm_woodway_whelen_cencom"
 EMV.Skin = 1

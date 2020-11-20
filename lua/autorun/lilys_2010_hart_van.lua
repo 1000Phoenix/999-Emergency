@@ -11,6 +11,8 @@ local B = "BLUE"
 local DR = "D_RED"
 local A = "AMBER"
 local G = "GREEN"
+EMV.RadarDisabled = true
+
 
 EMV.Siren = 1
 EMV.Skin = 5
