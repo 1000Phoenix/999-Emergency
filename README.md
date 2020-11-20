@@ -46,7 +46,6 @@ We wanted to also name ourselves after something that you could easily connect t
 | [Noble](https://github.com/Noble-N9) | Whelen M9 |
 | [Creator2013](https://steamcommunity.com/id/creator_2013) | Scene Lighting |
 | [LoneWolfie](https://steamcommunity.com/id/LoneBalto) | Models & Skins, Vehicles |
-| [Perryn](https://steamcommunity.com/id/Perryn) | Models & Skins |
 | [MetroHD](https://steamcommunity.com/id/MetroHD) | Models & Skins |
 | [GermanDude](https://steamcommunity.com/id/theonlygermandude) | Skins |
 | [SGM](https://github.com/SentryGunMan) | Models |
