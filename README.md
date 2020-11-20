@@ -52,3 +52,5 @@ We wanted to also name ourselves after something that you could easily connect t
 | [SGM](https://github.com/SentryGunMan) | Models |
 | [Joshua Piper](https://github.com/JoshPiper) | GitHub, Documentation |
 | [TDM](https://steamcommunity.com/id/TheDanishMaster) | Models |
+| [RoegonTV](https://www.lcpdfr.com/downloads/dev-resources/lightbars/17206-whelen-liberty/) | Whelen Liberty |
+| [Joe Cremin]() | Edits to Whelen liberty to West Midlands Ambulance Service |
