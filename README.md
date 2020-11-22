@@ -60,3 +60,5 @@ We wanted to also name ourselves after something that you could easily connect t
 | [Joe Cremin]() | Edits to Whelen liberty to West Midlands Ambulance Service | NO | 
 | [Victor](https://www.gta5-mods.com/vehicles/skoda-octavia-combi-replace-unlocked) | Original 2020 Skoda Model |
 | [droidd](https://shoppy.gg/@droidd/groups/POe9jrI) | Unlocked BMW X5 F15  |
+
+ALL Models ported or bought from orignal creators have been ported with permission from creators, we DO NOT port anything without contacting the orignal owner beforehand, to ensure that we have their blessing and permission to port their models, textures, sounds, etc. Because we are respectful of peoples wishes.
