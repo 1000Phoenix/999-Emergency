@@ -54,9 +54,9 @@ We wanted to also name ourselves after something that you could easily connect t
 
 
 ## Models Ported Credit List
-| Name | Contributions | Model Purchsed | Permission |
-| ----- | ----- |
-| [RoegonTV](https://www.lcpdfr.com/downloads/dev-resources/lightbars/17206-whelen-liberty/) | Whelen Liberty | NO | YES | 
+| Creator | Model |
+| --- | --- |
+| [RoegonTV](https://www.lcpdfr.com/downloads/dev-resources/lightbars/17206-whelen-liberty/) | Whelen Liberty |
 | [Joe Cremin]() | Edits to Whelen liberty to West Midlands Ambulance Service | NO | 
-| [Victor](https://www.gta5-mods.com/vehicles/skoda-octavia-combi-replace-unlocked) | Original 2020 Skoda Model | NO | YES |
-| [droidd](https://shoppy.gg/@droidd/groups/POe9jrI) | Unlocked BMW X5 F15  | YES | YES |
+| [Victor](https://www.gta5-mods.com/vehicles/skoda-octavia-combi-replace-unlocked) | Original 2020 Skoda Model |
+| [droidd](https://shoppy.gg/@droidd/groups/POe9jrI) | Unlocked BMW X5 F15  |
