@@ -129,7 +129,7 @@ EMV.Sequences = {
 	Sequences = {
 		{ Name = "CODE 1", Stage = "M1", Components = {}, Disconnect = {} },
 		{ Name = "CODE 2", Stage = "M2", Components = {}, Disconnect = {} },
-		{ Name = "CODE 3", Stage = "M3", Components = {}, Disconnect = {} }
+		{ Name = "999 Mode", Stage = "M3", Components = {}, Disconnect = {} }
 	},
 	Traffic = {
 		{ 
@@ -153,7 +153,7 @@ local V = {
 	Category = "Photon: 999Emergency",
 	Author = "Lily",
 	Model = "models/lonewolfie/bmw_x5_48i_pol.mdl",
-	KeyValues = { vehiclescript = "scripts/vehicles/lwCars/bmw_x5_48i.txt" },
+	KeyValues = { vehiclescript = "scripts/vehicles/lwCars/999_bmwx5.txt" },
 	IsEMV = true,
 	EMV = EMV,
 	HasPhoton = true,

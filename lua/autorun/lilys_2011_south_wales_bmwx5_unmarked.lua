@@ -225,7 +225,7 @@ local V = {
 	Category = "Photon: 999Emergency",
 	Author = "Lily",
 	Model = "models/lonewolfie/bmw_x5_48i_pol.mdl",
-	KeyValues = { vehiclescript = "scripts/vehicles/lwCars/bmw_x5_48i.txt" },
+	KeyValues = { vehiclescript = "scripts/vehicles/lwCars/999_bmwx5.txt" },
 	IsEMV = true,
 	EMV = EMV,
 	HasPhoton = true,
