@@ -57,7 +57,7 @@ We wanted to also name ourselves after something that you could easily connect t
 | Creator | Model |
 | --- | --- |
 | [RoegonTV](https://www.lcpdfr.com/downloads/dev-resources/lightbars/17206-whelen-liberty/) | Whelen Liberty |
-| [Joe Cremin]() | Edits to Whelen liberty to West Midlands Ambulance Service | 2018 Fiat Ducato  | 
+| [Joe Cremin]() | Edits to Whelen liberty to West Midlands Ambulance Service & 2018 Fiat Ducato  | 
 | [Victor](https://www.gta5-mods.com/vehicles/skoda-octavia-combi-replace-unlocked) | Original 2020 Skoda Model |
 | [droidd](https://shoppy.gg/@droidd/groups/POe9jrI) | Unlocked BMW X5 F15  |
 
