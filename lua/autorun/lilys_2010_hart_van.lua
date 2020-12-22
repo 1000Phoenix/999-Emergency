@@ -13,6 +13,10 @@ local A = "AMBER"
 local G = "GREEN"
 EMV.RadarDisabled = true
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of a37a87e... Removed Modern files.
 EMV.Siren = 1
 EMV.Skin = 5
 EMV.Color = Color(255,255,255)

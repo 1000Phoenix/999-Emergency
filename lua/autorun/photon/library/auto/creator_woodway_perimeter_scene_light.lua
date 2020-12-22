@@ -41,7 +41,11 @@ COMPONENT.Modes = {
 	}
 }
 
+<<<<<<< HEAD
 function registerComponent( name, mode )
+=======
+local function registerComponent( name, mode )
+>>>>>>> parent of a37a87e... Removed Modern files.
 	local COMP = table.Copy( COMPONENT )
 	COMP.Modes.Illumination[ mode ] = { { 1, W } }
 	EMVU:AddAutoComponent( COMP, "Woodway Perimeter Scene Light " .. name )
@@ -49,4 +53,8 @@ end
 
 registerComponent( "Left", "L" )
 registerComponent( "Right", "R" )
+<<<<<<< HEAD
 registerComponent( "Rear", "B" )
+=======
+registerComponent( "Rear", "B" )
+>>>>>>> parent of a37a87e... Removed Modern files.

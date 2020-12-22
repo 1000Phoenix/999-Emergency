@@ -214,7 +214,11 @@ EMV.Sequences = {
 	Sequences = {
 		{ Name = "CODE 1", Stage = "M1", Components = {}, Disconnect = {} },
 		{ Name = "CODE 2", Stage = "M2", Components = {}, Disconnect = {} },
+<<<<<<< HEAD
 		{ Name = "999 Mode", Stage = "M3", Components = {}, Disconnect = {} }
+=======
+		{ Name = "CODE 3", Stage = "M3", Components = {}, Disconnect = {} }
+>>>>>>> parent of a37a87e... Removed Modern files.
 	},
 	Traffic = {},
 }

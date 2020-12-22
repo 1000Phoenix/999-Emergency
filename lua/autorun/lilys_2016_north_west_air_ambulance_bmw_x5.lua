@@ -3,7 +3,10 @@ AddCSLuaFile()
 local VehicleName = "2016 North West Air Ambulance X5 [Lily]"
 
 local EMV = {}
+<<<<<<< HEAD
 EMV.RadarDisabled = true
+=======
+>>>>>>> parent of a37a87e... Removed Modern files.
 
 EMV.Siren = 49
 EMV.Skin = 2

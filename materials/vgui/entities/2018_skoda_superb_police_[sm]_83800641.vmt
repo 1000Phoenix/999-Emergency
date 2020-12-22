@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+    $basetexture "vgui/entities/2018_skoda_superb_police_[sm]_83800641"
+    "$vertexcolor"         1
+    "$vertexalpha"         1
+    "$nolod"               1
+}
