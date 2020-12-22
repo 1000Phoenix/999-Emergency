@@ -41,7 +41,7 @@ COMPONENT.Modes = {
 	}
 }
 
-local function registerComponent( name, mode )
+function registerComponent( name, mode )
 	local COMP = table.Copy( COMPONENT )
 	COMP.Modes.Illumination[ mode ] = { { 1, W } }
 	EMVU:AddAutoComponent( COMP, "Woodway Perimeter Scene Light " .. name )
