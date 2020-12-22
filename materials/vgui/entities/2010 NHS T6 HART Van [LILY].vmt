@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-    $basetexture "vgui/entities/2010 NHS T6 HART Van [LILY]"
-    "$vertexcolor"         1
-    "$vertexalpha"         1
-    "$nolod"               1
-}
