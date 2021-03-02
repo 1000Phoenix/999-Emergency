@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+    $basetexture "vgui/entities/2013_met_police_bmw_x5_[lily]_17396989"
+    "$vertexcolor"         1
+    "$vertexalpha"         1
+    "$nolod"               1
+}

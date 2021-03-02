@@ -2,7 +2,11 @@ AddCSLuaFile()
 
 local VehicleName = "2010 NHS T6 HART Van [LILY]"
 
-local EMV = {}
+local EMV = {} 
+EMV.SubMaterials = {
+["22"] = "models/metrohd/vw_multivan/999dash"
+}
+
 local R = "RED"
 local W = "WHITE"
 local SW = "S_WHITE"
@@ -12,7 +16,6 @@ local DR = "D_RED"
 local A = "AMBER"
 local G = "GREEN"
 EMV.RadarDisabled = true
-
 
 EMV.Siren = 1
 EMV.Skin = 5
@@ -27,17 +30,20 @@ EMV.BodyGroups = {
 	{ 5, 0 }, -- vw_multivan_5
 	{ 6, 0 }, -- vw_multivan_6
 	{ 7, 0 }, -- vw_multivan_7
-	{ 8, 0 }, -- vw_multivan_8
-	{ 9, 0 }, -- vw_multivan_9
-	{ 10, 0 }, -- vw_multivan_10
-	{ 11, 2 }, -- Rear Windows
-	{ 12, 1 }, -- Plastic Side Trim
-	{ 13, 0 }, -- Emergency Lights
-	{ 14, 0 }, -- Emergency LEDs
-	{ 15, 0 }, -- Plastic Front Bumper
-	{ 16, 0 }, -- Plastic Rear Bumper
-	{ 17, 0 }, -- Badges
-	{ 18, 0 }, -- Plastic Mirrors
+	{ 8, 2 }, -- Rear Windows
+	{ 9, 1 }, -- Plastic Side Trim
+	{ 10, 0 }, -- Emergency Lights
+	{ 11, 0 }, -- LEDs
+	{ 12, 0 }, -- Plastic Front Bumper
+	{ 13, 0 }, -- Plastic Rear Bumper
+	{ 14, 0 }, -- Badges
+	{ 15, 0 }, -- Plastic Mirrors
+	{ 16, 0 }, -- Plastic Handles
+	{ 17, 1 }, -- Second row seats
+	{ 18, 2 }, -- Trunk
+	{ 19, 1 }, -- Steel Rims Front
+	{ 20, 1 }, -- Steel Rims Rear
+	{ 21, 0 }, -- Tow hitch
 }
 
 EMV.Patterns = {
@@ -90,7 +96,24 @@ EMV.Auto = {
 	},
 }
 
-EMV.Props = {}
+EMV.Props = {
+// 999 Logo
+	{
+    Model = "models/supermighty/emergency999_badge.mdl", 
+     Pos = Vector( -18.25, 110.55, 39.65 ),
+     Ang = Angle( -5, 101.3, 2.25),
+     Scale = Vector(1,0.5,0.75),
+     Skin = 2,
+    },
+// 999 Boot
+	{
+    Model = "models/999pack/multivan/boot.mdl", 
+     Pos = Vector(0,	0	,0 ),
+     Ang = Angle(0,	-90,	0),
+     Scale = Vector(1,	1,	1),
+     Skin = 2,
+    },
+}
 
 EMV.Meta = {
 	headlight = {

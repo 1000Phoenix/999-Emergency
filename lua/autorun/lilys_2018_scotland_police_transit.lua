@@ -90,18 +90,6 @@ EMV.Sequences = {
 		{ Name = "999 Mode", Stage = "M3", Components = {}, Disconnect = {} }
 	},
 	Traffic = {
-		{ 
-            Name = "RED1", 
-            Stage = "R1", 
-            Components = {},
-            Disconnect = {} 
-        },
-		{ 
-            Name = "RED2", 
-            Stage = "R2", 
-            Components = {},
-            Disconnect = {} 
-        },
 	},
 }
 

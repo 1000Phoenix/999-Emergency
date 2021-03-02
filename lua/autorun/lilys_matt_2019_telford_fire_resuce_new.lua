@@ -7,6 +7,7 @@ local EMV = {}
 EMV.Siren = "sm_woodway_whelen_cencom"
 EMV.Skin = 1
 EMV.Color = Color(255,255,255)
+EMV.RadarDisabled = true
 
 EMV.BodyGroups = {
 	{ 0, 0 }, -- car
