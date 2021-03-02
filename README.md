@@ -18,10 +18,11 @@ Our end goal is to have a massive ELS lighting pack dedicated and packed of UK v
 | [Lily-Rose](https://steamcommunity.com/id/OfficialPhotonThot) | Project Manager. |
 | [Super Mighty](https://github.com/SuperMighty1) | Project Coordinator. |
 | [MattDavidJ](https://steamcommunity.com/profiles/76561198230436120) | Project Coordinator. |
+| [Joshua Piper](https://github.com/JoshPiper) | Community Manager, GitHub, Documentation, Code Review, Backend |
 | [Creator2013](https://steamcommunity.com/id/creator_2013) | Custom Models & Photon Code. |
 | [GermanDude](https://steamcommunity.com/id/theonlygermandude) | Skins |
 | [SGM](https://github.com/SentryGunMan) | Models |
-| [Joshua Piper](https://github.com/JoshPiper) | GitHub, Documentation, Code Review, Backend |
+
 
 We're always looking for people to join our team! If you think you have what it takes, please feel free to message anyone of our Team Members on Steam or Discord and they'll pass it onto the suitable people!
 

@@ -126,29 +126,23 @@ COMPONENT.Modes = {
 			M1 = {
 				["headlights"] = "Stage1",
 				["grille"] = "Stage1",
-<<<<<<< HEAD
-=======
+
+      
 				["red1"] = "off",
 				["red2"] = "off",
->>>>>>> parent of a37a87e... Removed Modern files.
 			},
 			M2 = {
 				["headlights"] = "Stage2",
 				["grille"] = "Stage2",
-<<<<<<< HEAD
-=======
 				["red1"] = "off",
 				["red2"] = "off",
->>>>>>> parent of a37a87e... Removed Modern files.
 			},
 			M3 = {
 				["headlights"] = "Stage3",
 				["grille"] = "Stage3",
-<<<<<<< HEAD
-=======
+
 				["red1"] = "off",
 				["red2"] = "off",
->>>>>>> parent of a37a87e... Removed Modern files.
 			}
 		},
 		Auxiliary = {
