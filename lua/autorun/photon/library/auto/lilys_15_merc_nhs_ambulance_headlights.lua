@@ -126,14 +126,23 @@ COMPONENT.Modes = {
 			M1 = {
 				["headlights"] = "Stage1",
 				["grille"] = "Stage1",
+
+      
+				["red1"] = "off",
+				["red2"] = "off",
 			},
 			M2 = {
 				["headlights"] = "Stage2",
 				["grille"] = "Stage2",
+				["red1"] = "off",
+				["red2"] = "off",
 			},
 			M3 = {
 				["headlights"] = "Stage3",
 				["grille"] = "Stage3",
+
+				["red1"] = "off",
+				["red2"] = "off",
 			}
 		},
 		Auxiliary = {

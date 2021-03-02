@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+    $basetexture "vgui/entities/2018_scotland_police_ford_transit_custom_[lily]_17396989"
+    "$vertexcolor"         1
+    "$vertexalpha"         1
+    "$nolod"               1
+}

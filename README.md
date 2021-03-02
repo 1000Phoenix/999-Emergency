@@ -53,3 +53,17 @@ We wanted to also name ourselves after something that you could easily connect t
 | [SGM](https://github.com/SentryGunMan) | Models |
 | [Joshua Piper](https://github.com/JoshPiper) | GitHub, Documentation |
 | [TDM](https://steamcommunity.com/id/TheDanishMaster) | Models |
+
+
+## Models Ported Credit List
+| Creator | Model |
+| --- | --- |
+| [thecloser_#5116]() | Provided Fire Truck Rear | New Fire Truck  | 
+| [RoegonTV](https://www.lcpdfr.com/downloads/dev-resources/lightbars/17206-whelen-liberty/) | Whelen Liberty |
+| [Joe Cremin]() | Edits to Whelen liberty to West Midlands Ambulance Service | 2018 Fiat Ducato  | 
+| [Victor](https://www.gta5-mods.com/vehicles/skoda-octavia-combi-replace-unlocked) | Original 2020 Skoda Model |
+| [droidd]() | Unlocked BMW X5 F15  |
+| [BG88]() | Unlocked Ford Transit Custom  |
+| [Ceiling★Spiders](https://steamcommunity.com/id/Merissaze) | Paramedic Playermodels (Before re-texture).  |
+
+ALL Models ported or bought from orignal creators have been ported with permission from creators, we DO NOT port anything without contacting the orignal owner beforehand, to ensure that we have their blessing and permission to port their models, textures, sounds, etc. Because we are respectful of peoples wishes.
