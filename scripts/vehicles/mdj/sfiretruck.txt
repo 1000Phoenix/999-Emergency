@@ -105,7 +105,6 @@
  
 "Vehicle_Sounds"
 {
-<<<<<<< HEAD
  "Gear"
  {
  "Max_Speed" "0.05"
@@ -251,7 +250,6 @@
  "Skid_LowFriction" "common/null.wav"
  "Skid_NormalFriction" "common/null.wav"
  "Skid_HighFriction" "common/null.wav"
-=======
         "Gear"
         {
                 "Max_Speed"                             "0.02"
@@ -390,5 +388,4 @@
         "Skid_LowFriction"              "common/null.wav"
         "Skid_NormalFriction"   "common/null.wav"
         "Skid_HighFriction"             "common/null.wav"
->>>>>>> parent of a37a87e... Removed Modern files.
 }
