@@ -150,7 +150,7 @@ EMV.Sequences = {
 local V = {
 	Name = VehicleName,
 	Class = "prop_vehicle_jeep",
-	Category = "Photon: 999Emergency",
+	Category = "999Emergency - Photon",
 	Author = "Lily",
 	Model = "models/lonewolfie/bmw_x5_48i_pol.mdl",
 	KeyValues = { vehiclescript = "scripts/vehicles/lwCars/999_bmwx5.txt" },
