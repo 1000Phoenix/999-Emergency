@@ -21,8 +21,11 @@ Interested in joining the project; consult a team member today. They will happil
 ## Our Aims & Our Goals
 
 • To bring the community a realistic fleet of United Kingdom vehicles of different counties and agencies. Handcrafted lighting using a range of custom made components & skins made with love and care.
+
 • To Redefine, Recreate and upping the standards of current vehicles, from the lighting setups right down to the skins. Giving them proper love, care and attention; to the realistic feeling that they deserve. 
+
 • Aiming to provide models that have been forgotten and overlooked for far too long.
+
 • Expanding the possibilities of a scene, from the ground vehicles to the skies. Giving you that edge over the suspects or transporting a critical patient to the hospital.
 
 ## Why?
