@@ -103,4 +103,7 @@ We maintain high standards for quality and respect for the creators. We will alw
 
 ## Last Edited
 This document was re-written by Lily-Rose on the 30th of April 2021.
+
 Reason; The documents across all three GitHub boards weren't synced and outdated. So I decided to completely re-write the file, which will provide more up to date information and synced.
+
+File overlooked and finalised by SuperMighty on the 30th of April 2021
