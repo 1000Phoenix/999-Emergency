@@ -48,11 +48,11 @@ When we started this project, we were only going to create Emergency vehicles fr
 
 ## Social & Support
 
-• [999Emergency Shared Content]() TBA
+• [999Emergency Shared Content]() NOT RELEASED
 
 • [999Emergency Photon Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2176739978)
 
-• [999Emergency VCmod Pack]() TBA
+• [999Emergency VCmod Pack](https://steamuserimages-a.akamaihd.net/ugc/1749057761574116742/23170B49DDDCBEE02A217E889DFAB61F01A05F8B/) NOT RELEASED
 
 • [999Emergency NHS Models](https://steamcommunity.com/sharedfiles/filedetails/?id=2410835801)
 
@@ -90,9 +90,9 @@ When we started this project, we were only going to create Emergency vehicles fr
 ## Models Ported Credit List
 | Creator | Model |
 | --- | --- |
-| [thecloser_#5116]() | Provided Fire Truck Rear | New Fire Truck  | Secret Project  | 
+| [thecloser_#5116]() | Provided Fire Truck Rear, New Fire Truck, Secret Project  | 
 | [RoegonTV](https://www.lcpdfr.com/downloads/dev-resources/lightbars/17206-whelen-liberty/) | Whelen Liberty | 
-| [Joe Cremin]() | Edits to Whelen liberty to West Midlands Ambulance Service | 2018 Fiat Ducato  |
+| [Joe Cremin]() | Edits to Whelen liberty to West Midlands Ambulance Service, 2018 Fiat Ducato  |
 | [Victor](https://www.gta5-mods.com/vehicles/skoda-octavia-combi-replace-unlocked) | Original 2020 Skoda Model | 
 | [droidd]() | Unlocked BMW X5 F15  | 
 | [BG88]() | Unlocked Ford Transit Custom  |
