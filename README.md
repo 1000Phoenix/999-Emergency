@@ -48,12 +48,18 @@ When we started this project, we were only going to create Emergency vehicles fr
 
 ## Social & Support
 
-• [999Emergency Shared Content](TBA)
+• [999Emergency Shared Content]() TBA
+
 • [999Emergency Photon Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2176739978)
-• [999Emergency VCmod Pack](TBA)
+
+• [999Emergency VCmod Pack]() TBA
+
 • [999Emergency NHS Models](https://steamcommunity.com/sharedfiles/filedetails/?id=2410835801)
+
 • [999Emergency Airbus EC-135](https://steamcommunity.com/sharedfiles/filedetails/?id=2415969002)
+
 • [Discord](https://discord.gg/4cBZ6bN)
+
 • [Steam Group](https://steamcommunity.com/groups/999Emergency)
 
 ## Contributors & Credits
