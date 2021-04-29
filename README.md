@@ -22,6 +22,7 @@ Our end goal is to have a massive ELS lighting pack dedicated and packed of UK v
 | [Creator2013](https://steamcommunity.com/id/creator_2013) | Custom Models & Photon Code. |
 | [GermanDude](https://steamcommunity.com/id/theonlygermandude) | Skins |
 | [SGM](https://github.com/SentryGunMan) | Models |
+| [Unkn0wn_F1R3](https://steamcommunity.com/id/Unkn0wn_F1R3) | Playermodel textures, Skins |
 
 
 We're always looking for people to join our team! If you think you have what it takes, please feel free to message anyone of our Team Members on Steam or Discord and they'll pass it onto the suitable people!
