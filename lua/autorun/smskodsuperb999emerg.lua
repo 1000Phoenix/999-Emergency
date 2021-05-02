@@ -63,7 +63,7 @@ EMV.Sequences = {
 local V = {
 	Name = VehicleName,
 	Class = "prop_vehicle_jeep",
-	Category = "Photon: 999Emergency",
+	Category = "999Emergency - Photon",
 	Author = "Super Mighty",
 	Model = "models/smcars/2018_skoda_superb.mdl",
 	KeyValues = { vehiclescript = "scripts/vehicles/superscars/superb.txt" },

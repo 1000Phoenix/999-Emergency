@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-    $basetexture "vgui/entities/2015 Mercedes NHS Ambulance [Lily]"
-    "$vertexcolor"         1
-    "$vertexalpha"         1
-    "$nolod"               1
-}
