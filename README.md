@@ -80,6 +80,7 @@ When we started this project, we were only going to create Emergency vehicles fr
 | [SGM](https://github.com/SentryGunMan) | Custom Models, Airbus EC-135 |
 | [Joshua Piper](https://github.com/JoshPiper) | GitHub, Documentation, Backend |
 | [TDM](https://steamcommunity.com/id/TheDanishMaster) | Models |
+| [Sir Zac](https://steamcommunity.com/id/sir_zac/) | Police Tool Swep |
 
 ## Supporters
 | Name | Contributions |
@@ -96,6 +97,7 @@ When we started this project, we were only going to create Emergency vehicles fr
 | [Victor](https://www.gta5-mods.com/vehicles/skoda-octavia-combi-replace-unlocked) | Original 2020 Skoda Model | 
 | [droidd]() | Unlocked BMW X5 F15  | 
 | [BG88]() | Unlocked Ford Transit Custom  |
+| [KIERANPSYV]() | Providing Funds to buy Ford Transit Custom  |
 | [Ceiling★Spiders](https://steamcommunity.com/id/Merissaze) | Paramedic Playermodels (Before re-texture).  |
 
 Any model used by 999Emergency, from custom models to existing models that we've made changes to, has done with permission from the original creator.
