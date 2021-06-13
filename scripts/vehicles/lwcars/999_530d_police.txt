@@ -1,5 +1,3 @@
-// volxc70, created by TDM in 07/16/14 01:32:47, using Vehicle Controller (VCMod).
-
 "Vehicle"
 {
 	"WheelsPerAxle"		"2"
@@ -7,18 +5,18 @@
 	{
 		"CounterTorqueFactor"	"0.9"
 		"MassCenterOverride"	"0 -4 1"
-		"MassOverride"			"2800"
-		"AddGravity"			"0.75"
+		"MassOverride"			"3600"
+		"AddGravity"			"1.15"
 		"MaxAngularVelocity"	"720"
 	}
 	"Engine"
 	{
-		"HorsePower"			"375"
+		"HorsePower"			"325"
 		"MaxRPM"				"4000"
-		"MaxSpeed"				"130"
-		"MaxReverseSpeed"		"24"
-		"AutobrakeSpeedGain"	"1.1"
-		"AutobrakeSpeedFactor"	"3"
+		"MaxSpeed"				"150"
+		"MaxReverseSpeed"		"35"
+		"AutobrakeSpeedGain"	"2.2"
+		"AutobrakeSpeedFactor"	"6"
 		"Autotransmission"		"0"
 		"AxleRatio"				"6"
 		"Gear"					"5"
@@ -59,7 +57,7 @@
 	{
 		"Wheel"
 		{
-			"Radius"						"17.8"
+			"Radius"						"15.5"
 			"Mass"							"250"
 			"Inertia"						"0"
 			"Damping"						"0"
@@ -83,7 +81,7 @@
 	{
 		"Wheel"
 		{
-			"Radius"						"17.8"
+			"Radius"						"15.5"
 			"Mass"							"400"
 			"Inertia"						"0"
 			"Damping"						"0.9"
@@ -139,91 +137,91 @@
 	"State"
 	{
 		"Name"		"SS_GEAR_2_RESUME"
-		"Sound"		"vehicles/lwcars/bmw_x5_48i/second.wav"
+		"Sound"		"vehicles/lwcars/bmw_530d_touring/second.wav"
 		"Min_Time"	"0.5"
 	}
 	"State"
 	{
 		"Name"		"SS_GEAR_3_RESUME"
-		"Sound"		"vehicles/lwcars/bmw_x5_48i/third.wav"
+		"Sound"		"vehicles/lwcars/bmw_530d_touring/third.wav"
 		"Min_Time"	"0.5"
 	}
 	"State"
 	{
 		"Name"		"SS_REVERSE"
-		"Sound"		"vehicles/lwcars/bmw_x5_48i/rev.wav"
+		"Sound"		"vehicles/lwcars/bmw_530d_touring/rev.wav"
 		"Min_Time"	"0.5"
 	}
 	"State"
 	{
 		"Name"		"SS_IDLE"
-		"Sound"		"vehicles/lwcars/bmw_x5_48i/idle.wav"
+		"Sound"		"vehicles/lwcars/bmw_530d_touring/idle.wav"
 		"Min_Time"	"0"
 	}
 	"State"
 	{
 		"Name"		"SS_GEAR_1_RESUME"
-		"Sound"		"vehicles/lwcars/bmw_x5_48i/first.wav"
+		"Sound"		"vehicles/lwcars/bmw_530d_touring/first.wav"
 		"Min_Time"	"0.5"
 	}
 	"State"
 	{
 		"Name"		"SS_GEAR_4"
-		"Sound"		"vehicles/lwcars/bmw_x5_48i/fourth_cruise.wav"
+		"Sound"		"vehicles/lwcars/bmw_530d_touring/fourth_cruise.wav"
 		"Min_Time"	"0.5"
 	}
 	"State"
 	{
 		"Name"		"SS_GEAR_1"
-		"Sound"		"vehicles/lwcars/bmw_x5_48i/first.wav"
+		"Sound"		"vehicles/lwcars/bmw_530d_touring/first.wav"
 		"Min_Time"	"0.5"
 	}
 	"State"
 	{
 		"Name"		"SS_SLOWDOWN_HIGHSPEED"
-		"Sound"		"vehicles/lwcars/bmw_x5_48i/slowdown_highspeed.wav"
+		"Sound"		"vehicles/lwcars/bmw_530d_touring/slowdown_highspeed.wav"
 		"Min_Time"	"2"
 	}
 	"State"
 	{
 		"Name"		"SS_START_IDLE"
-		"Sound"		"common/null.wav"
+		"Sound"		"vehicles/lwcars/bmw_530d_touring/startup.wav"
 		"Min_Time"	"4"
 	}
 	"State"
 	{
 		"Name"		"SS_GEAR_4_RESUME"
-		"Sound"		"vehicles/lwcars/bmw_x5_48i/fourth_cruise.wav"
+		"Sound"		"vehicles/lwcars/bmw_530d_touring/fourth_cruise.wav"
 		"Min_Time"	"0.5"
 	}
 	"State"
 	{
 		"Name"		"SS_GEAR_3"
-		"Sound"		"vehicles/lwcars/bmw_x5_48i/third.wav"
+		"Sound"		"vehicles/lwcars/bmw_530d_touring/third.wav"
 		"Min_Time"	"0.5"
 	}
 	"State"
 	{
 		"Name"		"SS_GEAR_0_RESUME"
-		"Sound"		"vehicles/lwcars/bmw_x5_48i/idle.wav"
+		"Sound"		"vehicles/lwcars/bmw_530d_touring/idle.wav"
 		"Min_Time"	"0.05"
 	}
 	"State"
 	{
 		"Name"		"SS_GEAR_0"
-		"Sound"		"vehicles/lwcars/bmw_x5_48i/idle.wav"
+		"Sound"		"vehicles/lwcars/bmw_530d_touring/idle.wav"
 		"Min_Time"	"0.05"
 	}
 	"State"
 	{
 		"Name"		"SS_GEAR_2"
-		"Sound"		"vehicles/lwcars/bmw_x5_48i/second.wav"
+		"Sound"		"vehicles/lwcars/bmw_530d_touring/second.wav"
 		"Min_Time"	"0.5"
 	}
 	"State"
 	{
 		"Name"		"SS_SLOWDOWN"
-		"Sound"		"vehicles/lwcars/bmw_x5_48i/slowdown_slow.wav"
+		"Sound"		"vehicles/lwcars/bmw_530d_touring/slowdown_slow.wav"
 		"Min_Time"	"2"
 	}
 	"CrashSound"
