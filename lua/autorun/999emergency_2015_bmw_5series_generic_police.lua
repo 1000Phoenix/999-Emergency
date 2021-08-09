@@ -1,6 +1,6 @@
 AddCSLuaFile()
 
-local VehicleName = "[999Emergency] 2012 BMW 5 Series [Lily]"
+local VehicleName = "[999Emergency] 2012 BMW 5 Series Traffic Police [Lily]"
 
 local EMV = {}
 local R = "RED"
@@ -13,7 +13,7 @@ local A = "AMBER"
 local G = "GREEN"
 
 EMV.Siren = 49
-EMV.Skin = 9
+EMV.Skin = 4
 EMV.Color = Color(255,255,255)
 
 EMV.BodyGroups = {
