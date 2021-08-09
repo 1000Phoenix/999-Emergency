@@ -12,7 +12,7 @@ local DR = "D_RED"
 local A = "AMBER"
 local G = "GREEN"
 
-EMV.Siren = "999emergency_NEW_Scottish_siren"
+EMV.Siren = "999emergency_Scottish_siren"
 EMV.Skin = 1
 EMV.Color = Color(255,255,255)
 
