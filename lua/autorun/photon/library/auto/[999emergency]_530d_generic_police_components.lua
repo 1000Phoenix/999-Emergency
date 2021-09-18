@@ -1,3 +1,5 @@
+AddCSLuaFile()
+
 
 local name = "Lilys British BMW 530D Whelen Ion1"
 
