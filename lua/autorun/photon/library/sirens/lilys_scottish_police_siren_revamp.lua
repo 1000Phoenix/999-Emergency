@@ -1,5 +1,5 @@
-EMVU.AddCustomSiren("999emergency_NEW_Scottish_siren", {
-    Name = "New Scottish Siren", -- Name visible in the context menu and in the HUD
+EMVU.AddCustomSiren("999emergency_Scottish_siren", {
+    Name = "999Emergency Scottish Siren", -- Name visible in the context menu and in the HUD
     Category = "999Emergency", -- Category in the context menu
     Set = {
         {

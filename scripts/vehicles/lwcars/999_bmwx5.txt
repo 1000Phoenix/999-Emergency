@@ -13,9 +13,9 @@
 	}
 	"Engine"
 	{
-		"HorsePower"			"555"
+		"HorsePower"			"375"
 		"MaxRPM"				"4000"
-		"MaxSpeed"				"150"
+		"MaxSpeed"				"130"
 		"MaxReverseSpeed"		"24"
 		"AutobrakeSpeedGain"	"1.1"
 		"AutobrakeSpeedFactor"	"3"
